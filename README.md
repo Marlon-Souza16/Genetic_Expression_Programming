@@ -16,7 +16,7 @@ A GEP é baseada em uma população de indivíduos, onde cada indivíduo possui 
 - **Síntese Proteica**: Assim como na biologia, onde o mRNA é traduzido em uma sequência de aminoácidos para formar proteínas, no GEP o genoma é traduzido em expressões matemáticas ou lógicas que representam soluções para o problema.
 - **Evolução**: Ao longo das gerações, as soluções evoluem, e os "melhores" indivíduos (aqueles com maior aptidão) são selecionados para gerar a próxima geração, imitando o processo de seleção natural.
 
-![Imagem DNA -> mRNA]()
+![Imagem DNA -> mRNA](imagem1.png)
 
 ## Componentes do Algoritmo
 
